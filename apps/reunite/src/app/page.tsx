@@ -1,6 +1,6 @@
 import Image from 'next/image'
-import {Button,Display} from "ui";
-
+import {Button} from "ui";
+import Display from 'ui/components/display';
 export default function Home() {
   return (
     <div>
